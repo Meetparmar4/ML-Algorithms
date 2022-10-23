@@ -32,6 +32,11 @@ Worked on some basic datasets and problems for learning these ML algorithms.
 - Scaled the numeric data in columns using standard scaler
 - Used the elbow method to pick a good K value, also created a for loop that trains various KNN models with different K values.
 - Made a list keep a track of error rate for each of these models with visualisation.
-- Retrained model with the best K value and checked the performance of the predictions with a classification_report.
+- Retrained model with the best K value and checked the performance of the predictions with a classification report.
 
 ## SVM
+
+- Used the Iris dataset 
+- After some EDA, I directly trained the model on SVM algorithm and checked the performance using classification report.
+- Later, I adjusted the hyperparameters by doing a grid search to find out the best possible values for c and gamma and chose the best parameters.
+- Again tested the performance using classification report and confusion matrix.
