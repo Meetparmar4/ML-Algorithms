@@ -28,4 +28,10 @@ Worked on some basic datasets and problems for learning these ML algorithms.
 
 ## KNN
 
+- Used an abstract dataset made for making beginners familiar with the algorithm.
+- Scaled the numeric data in columns using standard scaler
+- Used the elbow method to pick a good K value, also created a for loop that trains various KNN models with different K values.
+- Made a list keep a track of error rate for each of these models with visualisation.
+- Retrained model with the best K value and checked the performance of the predictions with a classification_report.
+
 ## SVM
