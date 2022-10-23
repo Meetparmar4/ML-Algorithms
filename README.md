@@ -17,6 +17,12 @@ Worked on some basic datasets and problems for learning these ML algorithms.
 ## PCA
 
 - Principal component analysis (PCA) is a technique for reducing the dimensionality of such datasets, increasing interpretability but at the same time minimizing information loss. It does so by creating new uncorrelated variables that successively maximize variance.
+- HOW DO YOU DO A PRINCIPAL COMPONENT ANALYSIS?
+   1.  Standardize the range of continuous initial variables
+   2.  Compute the covariance matrix to identify correlations
+   3.  Compute the eigenvectors and eigenvalues of the covariance matrix to identify the principal components
+   4.  Create a feature vector to decide which principal components to keep
+   5.  Recast the data along the principal components axes
 - Worked on breast cancer dataset which has 30 columns which are all important to determine whether the cancer is malignant or bening.
 - Learned to use the Principal Component Analysis technique to reduce the dimensions of the datasets.
 
