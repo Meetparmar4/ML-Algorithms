@@ -32,7 +32,7 @@ Worked on some basic datasets and problems for learning these ML algorithms.
 - Scaled the numeric data in columns using standard scaler
 - Used the elbow method to pick a good K value, also created a for loop that trains various KNN models with different K values.
 - Made a list keep a track of error rate for each of these models with visualisation.
-- Retrained model with the best K value and checked the performance of the predictions with a classification report.
+
 
 ## SVM
 
@@ -40,3 +40,11 @@ Worked on some basic datasets and problems for learning these ML algorithms.
 - After some EDA, I directly trained the model on SVM algorithm and checked the performance using classification report.
 - Later, I adjusted the hyperparameters by doing a grid search to find out the best possible values for c and gamma and chose the best parameters.
 - Again tested the performance using classification report and confusion matrix.
+
+## Random Forests and Decision Trees
+
+- Worked on lending club dataset with columns like Credit policy of the club, FICO scores and the customers being able to pay off their debt or not.
+- Performed visual analysis on the data to understand it better.
+- Trained Decision tree and random forests algorithms to predict whether the customers are able to pay their loans or not based on their other features
+- Retrained model with the best K value and checked the performance of the predictions with a classification report.
+- Used classification report and confusion matrix to see the performance of the models.
