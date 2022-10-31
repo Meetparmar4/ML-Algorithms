@@ -1,5 +1,5 @@
 # ML-projects
-Worked on some basic datasets and problems for learning these ML algorithms.
+Worked on some basic datasets and problems for learning these ML algorithms. Also uploaded some notebooks regarding certain practices in machine learning like dealing with multi correlation, Principal component analysis, etc.
 
 ## Logistic Regression
 
